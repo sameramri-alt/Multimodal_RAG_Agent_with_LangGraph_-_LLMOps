@@ -1,0 +1,23 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Project Specific
+qdrant_data/
+data/processed/
+data/raw/
+!data/raw/.gitkeep
+
+# IDEs
+.vscode/
+.idea/

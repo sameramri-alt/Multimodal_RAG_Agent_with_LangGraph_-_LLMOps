@@ -1,0 +1,12 @@
+qdrant-client>=1.7.0
+langgraph>=0.0.26
+langchain-core
+langchain-community
+langchain-ollama
+openai-whisper
+sentence-transformers
+torch
+fastembed
+pillow
+opencv-python
+moviepy
