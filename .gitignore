@@ -15,7 +15,7 @@ venv.bak/
 # Project Specific
 qdrant_data/
 data/processed/
-data/raw/
+data/raw/*
 !data/raw/.gitkeep
 
 # IDEs
